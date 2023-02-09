@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Insurance Claim Fraud Detection**
 
-- 🌱 I’m currently learning **Flask, Heroku**
+- 🌱 I’m currently learning **Tensorflow, Pytorch, DL**
 
 - 💬 Ask me about **Machine Learning and Deep Learning Algos**
 
