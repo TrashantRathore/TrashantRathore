@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trashantrathore" alt="trashantrathore" /></a> </p>
 
-- 🔭 I’m currently working on **Insurance Claim Fraud Detection**
+- 🔭 I’m currently working on **Image Classification using CNN, Building NER using LSTM and more projects**
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, DL**
 
-- 💬 Ask me about **Machine Learning and Deep Learning Algos**
+- 💬 Ask me about **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **trashnt22@gmail.com**
 
-- ⚡ Fun fact **I am a foody**
+- ⚡ Fun fact **I like Maths a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
